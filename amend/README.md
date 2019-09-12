@@ -6,7 +6,7 @@ Sometimes we just forget something obvious that we want to fix quickly.
 
 ## Setup:
 
-1. Run `. setup.sh` (or `.\setup.ps1` in PowerShell)
+1. Run `./setup.sh` (or `.\setup.ps1` in PowerShell)
 
 ## The task
 1. What does `git status` tell us?
