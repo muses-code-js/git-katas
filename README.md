@@ -120,3 +120,6 @@ git lol     # Does a "git log --graph --pretty=oneline --abbrev-commit --all"
 
 There is a very small test that you can run in powershell or bash.
 It is contained in the scripts `test.sh` and `test.ps1`.
+
+## Other Resources 
+[Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
