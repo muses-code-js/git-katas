@@ -26,6 +26,9 @@ You can look at the bottom of this file, if you have not yet done basic git conf
 1. What does the `status` look like now? The `log`?
 1. Commit the newest change
 
+git remote add git-katas https://github.com/CarolRogers/git-katas.git
+
+
 ## Useful commands
 - `git add`
 - `git commit`
