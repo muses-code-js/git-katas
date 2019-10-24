@@ -42,6 +42,8 @@ Go trough the three modes of resetting here.
 # Rewriting history
 Git commit --amend and other methods of rewriting history
 
+##[amend](amend/README.md)
+
 ## [reorder-the-history](reorder-the-history/README.md)
 We might have created our commits in a suboptimal order, practice to fix that scenario here.
 
@@ -58,12 +60,8 @@ git branch / git checkout / git merge
 ## [basic-branching](basic-branching/README.md)
 The first stride into branching.
 
-## [commit-on-wrong-branch](commit-on-wrong-branch/README.md)
-An administrative exercise, how do we _move_ a commit that we accidentally put on the wrong branch.
-
-## [commit-on-wrong-branch-2](commit-on-wrong-branch-2/README.md)
-Another exercise on what to do if you have accidentally committed
-on the wrong branch.
+## [merge-conflict](merge-conflict/README.md)
+A basic merge between diverging branches with incompatible changesets.
 
 ## [ff-merge](ff-merge/README.md)
 A tour around the most trivial of merges.
@@ -71,18 +69,23 @@ A tour around the most trivial of merges.
 ## [3-way-merge](3-way-merge/README.md)
 A basic merge, involving multiple diverged branches.
 
-## [merge-conflict](merge-conflict/README.md)
-A basic merge between diverging branches with incompatible changesets.
-
 ## [merge-mergesort](merge-mergesort/README.md)
 A merge conflict with actual code.
 
 ## [reverted-merge](reverted-merge/README.md)
 A merge has to be reverted, but this causes problems.
 
+## [commit-on-wrong-branch](commit-on-wrong-branch/README.md)
+An administrative exercise, how do we _move_ a commit that we accidentally put on the wrong branch.
+
+## [commit-on-wrong-branch-2](commit-on-wrong-branch-2/README.md)
+Another exercise on what to do if you have accidentally committed
+on the wrong branch.
+
 ## [rebase-branch](rebase-branch/README.md)
 Using rebase as an alternative to merging.
 
+## [Advanced interactive rebase](advanced-rebase-interactive/README.md)
 
 # Advanced Git
 
