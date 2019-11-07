@@ -76,8 +76,6 @@ git commit --amend                      # Re-do the commit message of the previo
 - or for instance Notepad++:
 `git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"`
 
-
-
 # See history
 git log             # Show commit logs
 git log --oneline   # Formats commits to a single line (shorthand for --pretty=oneline  --abbrev-commit )
@@ -122,4 +120,12 @@ There is a very small test that you can run in powershell or bash.
 It is contained in the scripts `test.sh` and `test.ps1`.
 
 ## Other Resources 
-[Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+[Learn git concepts, not commands](https://github.com/UnseenWizzard/git_training)
+[Pro Git book](https://git-scm.com/book/en/v2)
+[Learn Git Version Control](https://www.katacoda.com/courses/git)
+[Explain Shell for shell commands](https://explainshell.com/)
+[My favourite Git Commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
+[Merging vs Rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+[Songs about Git playlist](https://open.spotify.com/playlist/0MJBni0UzdnML1amikx0Rc)
+[Command Line Power User](https://commandlinepoweruser.com/)
+[Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.freecodecamp.org/news/git-the-laymans-guide-to-understanding-the-core-concepts/)
