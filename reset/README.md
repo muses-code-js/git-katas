@@ -5,7 +5,7 @@ We use reset to unstage change, but we can also do many more different things.
 
 ## Setup
 
-1. Run `. setup.sh` (or `.\setup.ps1` in PowerShell)
+1. Run `./setup.sh` (or `.\setup.ps1` in PowerShell)
 
 ## Task
 1. How does your working directory look like?
